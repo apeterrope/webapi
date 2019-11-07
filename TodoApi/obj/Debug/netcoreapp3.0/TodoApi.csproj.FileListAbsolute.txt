@@ -1,0 +1,17 @@
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.exe
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.deps.json
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.json
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.runtimeconfig.dev.json
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.dll
+C:\Temp\projects\TodoApi\TodoApi\bin\Debug\netcoreapp3.0\TodoApi.pdb
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.Manifest.cache
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\staticwebassets\TodoApi.StaticWebAssets.xml
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfoInputs.cache
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.AssemblyInfo.cs
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.dll
+C:\Temp\projects\TodoApi\TodoApi\obj\Debug\netcoreapp3.0\TodoApi.pdb
